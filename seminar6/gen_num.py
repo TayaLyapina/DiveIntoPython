@@ -17,4 +17,4 @@ def guess_the_num(lower_bound, upper_bound, attempts):
     return False
 
 
-
+print(guess_the_num(1, 3, 3))
